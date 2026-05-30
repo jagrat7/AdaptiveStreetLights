@@ -1,12 +1,8 @@
 # 🌃 Adaptive Street Lights
 
+
+
 **Data-driven, proactive street lighting for smart cities** — dimming and brightening street lamps ahead of demand by predicting pedestrian density, instead of reacting to motion after the fact.
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=FF9900) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi%205-A22846?logo=raspberrypi&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white)
-
-</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/pulse/engineering-smart-cities-street-lighting-system-jagrat-rao-km4df/">
@@ -14,6 +10,8 @@
   </a>
   <br>
   <a href="https://www.linkedin.com/pulse/engineering-smart-cities-street-lighting-system-jagrat-rao-km4df/"><b>📖 Read the full article on LinkedIn →</b></a>
+  <br>
+  <sub><i>The article covers the <b>cloud system</b> only — the actuator prototype is documented below in this README.</i></sub>
 </div>
 
 ---
