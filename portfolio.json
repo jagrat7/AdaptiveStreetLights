@@ -1,0 +1,18 @@
+{
+  "title": "Adaptive-StreetLights",
+  "description": "Self-adaptive street lighting system that predicts pedestrian density hour-by-hour using a MAPE-K architecture on AWS, dimming lamps ahead of time to save energy.",
+  "tags": [
+    "Python",
+    "AWS",
+    "MAPE-K"
+  ],
+  "order": 4,
+  "image": "assets/article-banner.png",
+  "images": [
+    "assets/article-banner.png",
+    "assets/cloud-architecture.png",
+    "assets/mape-k.png",
+    "assets/prediction-model.png",
+    "assets/actuator-leds.jpg"
+  ]
+}
