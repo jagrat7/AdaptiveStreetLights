@@ -14,5 +14,6 @@
     "assets/mape-k.png",
     "assets/prediction-model.png",
     "assets/actuator-leds.jpg"
-  ]
+  ],
+  "type": "web"
 }
