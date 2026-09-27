@@ -9,7 +9,7 @@
     <img src="assets/article-banner.png" alt="Lighting Up Smart Cities — Smart Street Lighting System — read the article on LinkedIn" width="720">
   </a>
   <br>
-  <a href="https://www.linkedin.com/pulse/engineering-smart-cities-street-lighting-system-jagrat-rao-km4df/"><b>📖 Read the full article on LinkedIn →</b></a>
+  <a href="https://www.linkedin.com/pulse/engineering-smart-cities-street-lighting-system-jagrat-rao-km4df/"><b>📖 Read the Cloud System article on LinkedIn →</b></a>
   <br>
   <sub><i>The article covers the <b>cloud system</b> only — the actuator prototype is documented below in this README.</i></sub>
 </div>
