@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/pulse/engineering-smart-cities-street-lighting-system-jagrat-rao-km4df/">
     <img src="assets/article-banner.png" alt="Lighting Up Smart Cities — Smart Street Lighting System — read the article on LinkedIn" width="720">
   </a>
-  <br>
-  <a href="https://www.linkedin.com/pulse/engineering-smart-cities-street-lighting-system-jagrat-rao-km4df/"><b>📖 Read the full Cloud System article on LinkedIn →</b></a>
-  <br>
 </div>
 
 ---
@@ -92,6 +89,8 @@ Per-street predictions roll up into a community-wide view in Grafana — a live 
 
 ![Community Grafana dashboard](assets/community-grafana.png)
 
+
+<a>href="https://www.linkedin.com/pulse/engineering-smart-cities-street-lighting-system-jagrat-rao-km4df/"><b>📖 Read the full Cloud System article on LinkedIn →</b></a>
 
 ---
 
