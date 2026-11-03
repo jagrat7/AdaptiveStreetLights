@@ -30,7 +30,7 @@ Conventional street lighting runs at full power all night, burning energy nobody
 | 💡 `regular` | 100% | normal traffic |
 | 🌙 `dimmed` | 50% | low / no predicted traffic |
 
-The system is built on the **MAPE-K** (Monitor–Analyze–Plan–Execute over a shared Knowledge base) self-adaptive architecture. Sensors stream hourly pedestrian counts to the cloud; a model retrains daily on the new data; the resulting predictions decide each lamp's state for the night. Because consumption is predicted ahead of time, the system also gives city planners a reliable **energy-budget forecast** — something traditional lighting can't offer.
+The system is built on the **MAPE-K** (Monitor–Analyze–Plan–Execute over a shared Knowledge base) self-adaptive architecture. Sensors stream hourly pedestrian counts to the cloud; a model retrains daily on the new data; the resulting predictions decide each lamp's state for the night. Because consumption is predicted ahead of time, the system also gives city planners a reliable **energy-budget forecast** — something traditional reactive lighting can't offer.
 
 Predictions and states are derived from the **[City of Melbourne Pedestrian Counting System](https://www.pedestrian.melbourne.vic.gov.au/)** dataset, which provides real hourly pedestrian counts from sensors across the city.
 
@@ -90,7 +90,7 @@ Per-street predictions roll up into a community-wide view in Grafana — a live 
 ![Community Grafana dashboard](assets/community-grafana.png)
 
 
-<ahref="https://www.linkedin.com/pulse/engineering-smart-cities-street-lighting-system-jagrat-rao-km4df/"><b>📖 Read the full Cloud System article on LinkedIn →</b></a>
+<a href="https://www.linkedin.com/pulse/engineering-smart-cities-street-lighting-system-jagrat-rao-km4df/"><b>📖 Read the full Cloud System article on LinkedIn →</b></a>
 
 ---
 
