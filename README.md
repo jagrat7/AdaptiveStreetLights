@@ -90,7 +90,7 @@ Per-street predictions roll up into a community-wide view in Grafana — a live 
 ![Community Grafana dashboard](assets/community-grafana.png)
 
 
-<a>href="https://www.linkedin.com/pulse/engineering-smart-cities-street-lighting-system-jagrat-rao-km4df/"><b>📖 Read the full Cloud System article on LinkedIn →</b></a>
+<ahref="https://www.linkedin.com/pulse/engineering-smart-cities-street-lighting-system-jagrat-rao-km4df/"><b>📖 Read the full Cloud System article on LinkedIn →</b></a>
 
 ---
 
